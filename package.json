@@ -9,6 +9,9 @@
   "author": "Prashant Gupta",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
     "fs": "0.0.1-security"
   }
 }
